@@ -1,413 +1,243 @@
-TryRoom – Terms of Service
-Last Updated: February 5, 2026
-
-Effective Date: February 5, 2026
-
-Agreement to Terms
-These Terms of Service ("Terms") constitute a legally binding agreement between you ("User," "you," or "your") and Webomax Bilişim Teknolojileri Limited Şirketi ("Company," "we," "our," or "us") governing your access to and use of the TryRoom mobile application ("App"), including any content, features, and services offered through the App.
-
-By downloading, installing, accessing, or using TryRoom, you acknowledge that you have read, understood, and agree to be bound by these Terms. If you do not agree to these Terms, you must not access or use the App.
-
-We reserve the right to modify these Terms at any time. Your continued use of the App following any changes constitutes your acceptance of the revised Terms.
-
-1. Description of Service
-1.1 What TryRoom Does
-TryRoom is an AI-powered personal styling application that provides:
-
-Virtual Wardrobe Management: Upload and organize photos of your clothing and accessories
-AI Style Analysis: Automated analysis of your wardrobe items using artificial intelligence
-Outfit Generation: AI-powered outfit combinations and style recommendations
-Occasion-Based Styling: Personalized outfit suggestions for specific events and occasions
-Shopping Assistance: Style matching for new items with your existing wardrobe
-Visual Preview: Outfit visualization on AI-generated models or user photos
-1.2 AI-Powered Features
-TryRoom utilizes third-party artificial intelligence services, including but not limited to:
-
-Google AI (Gemini/Vertex AI)
-OpenAI (GPT, DALL-E)
-Anthropic (Claude)
-These services process your data to provide styling recommendations and generate content within the App.
-
-2. Eligibility
-2.1 Age Requirement
-You must be at least 13 years of age (or the minimum age of digital consent in your jurisdiction) to use TryRoom. By using the App, you represent and warrant that you meet this age requirement.
-
-2.2 Legal Capacity
-By agreeing to these Terms, you represent that you have the legal capacity to enter into a binding agreement in your jurisdiction.
-
-2.3 Compliance with Laws
-You agree to use the App in compliance with all applicable local, state, national, and international laws and regulations.
-
-3. User Account and Registration
-3.1 No Account Required
-TryRoom does not require account creation or registration to use the App. Your data is stored locally on your device.
-
-3.2 Device-Based Access
-Your access to the App and its features is tied to your device. If you delete the App or change devices, your locally stored data (wardrobe items, saved styles) will not be transferred unless you manually back up your device.
-
-3.3 Subscription Access
-Premium features are accessed through subscriptions managed by Apple's App Store and RevenueCat. Your subscription is tied to your Apple ID.
-
-4. Subscriptions and Payments
-4.1 Subscription Plans
-TryRoom offers auto-renewable subscription plans that provide access to premium features, including:
-
-Unlimited AI style generations
-Advanced occasion-based styling
-Priority AI processing
-Additional premium features as introduced
-4.2 AI Credit System
-TryRoom operates on an AI credit system:
-
-Credits are consumed when generating AI-powered styles and recommendations
-Subscription plans include periodic credit allocations (weekly, monthly, or yearly)
-Credits are non-transferable between accounts or devices
-Unused credits may expire based on your subscription plan terms
-4.3 Billing and Renewal
-Payment will be charged to your Apple ID account at confirmation of purchase
-Subscriptions automatically renew unless canceled at least 24 hours before the end of the current billing period
-Your account will be charged for renewal within 24 hours prior to the end of the current period
-Subscription prices may change; you will be notified in advance of any price changes
-4.4 Managing Your Subscription
-You can manage or cancel your subscription at any time through:
-
-iOS: Settings → [Your Name] → Subscriptions → TryRoom
-
-4.5 No Refunds for Credits
-AI credits are non-refundable once consumed, regardless of:
-
-Dissatisfaction with AI-generated results
-Imperfect or unexpected outputs
-User error or mistakes
-Third-party AI service failures or outages
-App deletion or subscription cancellation
-This policy exists because each AI generation incurs real infrastructure and API costs that cannot be recovered.
-
-4.6 Subscription Refunds
-All subscription refund requests must be directed to Apple and are subject to Apple's refund policies. We do not control or manage Apple's refund system.
-
-To request a refund from Apple:
-
-Visit reportaproblem.apple.com
-Or contact Apple Support directly
-5. AI-Generated Content
-5.1 Nature of AI Content
-TryRoom uses artificial intelligence to generate style recommendations, outfit combinations, and visual content. You acknowledge and understand that:
-
-AI outputs are generated algorithmically and may be imperfect, inaccurate, or unpredictable
-Style recommendations are suggestions only and may not suit your personal preferences, body type, or occasion
-AI-generated images may contain artifacts, inconsistencies, or unrealistic elements
-Results may vary between generations even with similar inputs
-5.2 No Warranties on AI Output
-We make NO WARRANTIES regarding AI-generated content, including but not limited to:
-
-Accuracy: Style recommendations may not be accurate or appropriate
-Quality: Generated images may vary in quality
-Suitability: Suggestions may not be suitable for your intended purpose
-Consistency: Results may differ between sessions
-Availability: AI services may experience downtime or limitations
-Permanence: Generated content may not be permanently stored
-5.3 Ownership of AI-Generated Content
-Subject to these Terms and applicable law:
-
-You retain ownership of content you generate using the App for personal use
-We retain the right to use anonymized, aggregated data to improve our services
-Ownership does not extend to content that violates these Terms or applicable law
-Third-party AI providers may have additional terms regarding generated content
-5.4 Your Responsibility for AI Output
-You are solely responsible for:
-
-Evaluating the appropriateness of AI recommendations for your needs
-Any decisions made based on AI-generated suggestions
-How you use, share, or distribute AI-generated content
-Ensuring your use of generated content complies with applicable laws
-6. User Content and Uploads
-6.1 Content You Upload
-You may upload images of clothing, accessories, and personal photos to the App. By uploading content, you represent and warrant that:
-
-You own the content or have the legal right to use it
-You have obtained necessary permissions from any identifiable individuals in photos
-The content does not infringe any third-party intellectual property rights
-The content complies with these Terms and applicable laws
-6.2 License to Your Content
-By uploading content to TryRoom, you grant us a limited, non-exclusive, royalty-free license to:
-
-Process your content through AI services for styling purposes
-Display your content within the App on your device
-Use anonymized, aggregated data to improve our services
-This license is solely for the purpose of providing and improving the App's services.
-
-6.3 Content Storage
-Your uploaded content is stored locally on your device
-We do not store your personal photos or wardrobe items on our servers
-Content sent to third-party AI services is processed according to their respective privacy policies
-6.4 Content Removal
-You may delete any content from your virtual wardrobe at any time. Deleting the App will remove all locally stored content from your device.
-
-7. Prohibited Uses
-7.1 You Agree NOT to Use TryRoom to:
-Illegal or Harmful Content
-Upload, generate, or distribute illegal content
-Create content that promotes violence, hatred, or discrimination
-Generate content depicting illegal activities
-Produce content that could cause harm to individuals or groups
-Inappropriate Content
-Upload or generate pornographic, sexually explicit, or NSFW content
-Create nude or semi-nude imagery
-Generate content sexualizing minors in any way
-Produce obscene or offensive material
-Privacy Violations
-Upload images of individuals without their consent
-Create deepfakes or manipulated images of real people without consent
-Generate content intended to harass, stalk, or intimidate others
-Collect or harvest personal information of others
-Intellectual Property Violations
-Upload copyrighted material without authorization
-Generate content that infringes trademarks or other IP rights
-Reproduce branded or designer items for counterfeit purposes
-Violate the intellectual property rights of fashion brands or designers
-Fraud and Deception
-Use the App for fraudulent purposes
-Create misleading or deceptive content
-Impersonate individuals, brands, or organizations
-Misrepresent the source or nature of generated content
-Technical Abuse
-Reverse engineer, decompile, or disassemble the App
-Attempt to access unauthorized features or data
-Interfere with or disrupt the App's functionality
-Use automated systems, bots, or scripts to access the App
-Circumvent any security measures or access controls
-Exploit bugs or vulnerabilities in the App
-Commercial Misuse
-Use the App for unauthorized commercial purposes
-Resell or redistribute AI-generated content commercially without authorization
-Use the App for competitive analysis or research
-Scrape or harvest data from the App
-7.2 Consequences of Violations
-Violations of these prohibited uses may result in:
-
-Immediate suspension or termination of your access
-Removal of violating content
-Forfeiture of unused credits without refund
-Reporting to law enforcement authorities where required
-Legal action to recover damages
-8. Third-Party Services
-8.1 Third-Party AI Providers
-TryRoom integrates with third-party AI services to provide its features. These include:
-
-| Provider | Services Used | Terms | |----------|---------------|-------| | Google | AI analysis, image processing | Google Terms of Service | | OpenAI | AI-powered customer support, language processing, future app services | OpenAI Terms of Use | | Anthropic | AI-powered customer support, content generation, future app services | Anthropic Terms of Service | | RevenueCat | Subscription management | RevenueCat Terms | | Apple | App distribution, payments | Apple Terms and Conditions | | Firebase | Crash reporting, analytics | Firebase Terms |
-
-8.2 Your Agreement to Third-Party Terms
-By using TryRoom, you also agree to comply with the terms of service and acceptable use policies of our third-party service providers.
-
-8.3 Third-Party Service Availability
-We do not control third-party services and are not responsible for:
-
-Service outages or downtime
-Changes to third-party features or capabilities
-Third-party policy changes that affect App functionality
-Data handling by third-party services
-8.4 Data Sharing with Third Parties
-By using AI features in TryRoom, you consent to your data being shared with third-party AI providers for processing. See our Privacy Policy for details on data sharing practices.
-
-9. Intellectual Property
-9.1 Our Intellectual Property
-The App and its original content, features, and functionality are owned by Webomax Bilişim Teknolojileri Limited Şirketi and are protected by international copyright, trademark, patent, trade secret, and other intellectual property laws.
-
-This includes but is not limited to:
-
-The TryRoom name, logo, and branding
-App design, user interface, and user experience
-Software code and architecture
-Proprietary algorithms and processes
-Documentation and marketing materials
-9.2 Limited License to Use the App
-We grant you a personal, limited, non-exclusive, non-transferable, revocable license to:
-
-Download and install the App on your personal device
-Use the App for personal, non-commercial purposes
-Access features included in your subscription plan
-9.3 Restrictions
-You may not:
-
-Copy, modify, or create derivative works of the App
-Distribute, license, sell, or transfer the App
-Remove any copyright or proprietary notices
-Use the App for any commercial purpose without authorization
-9.4 Feedback
-If you provide feedback, suggestions, or ideas about the App, you grant us a perpetual, irrevocable, royalty-free license to use, modify, and incorporate such feedback without compensation or attribution.
-
-10. Disclaimers
-10.1 "As Is" and "As Available"
-THE APP IS PROVIDED ON AN "AS IS" AND "AS AVAILABLE" BASIS WITHOUT WARRANTIES OF ANY KIND, EITHER EXPRESS OR IMPLIED.
-
-10.2 Disclaimer of Warranties
-TO THE FULLEST EXTENT PERMITTED BY LAW, WE DISCLAIM ALL WARRANTIES, INCLUDING BUT NOT LIMITED TO:
-
-MERCHANTABILITY: No warranty that the App is fit for commercial use
-FITNESS FOR A PARTICULAR PURPOSE: No warranty that the App meets your specific needs
-NON-INFRINGEMENT: No warranty that the App doesn't infringe third-party rights
-ACCURACY: No warranty that AI outputs are accurate or reliable
-AVAILABILITY: No warranty of uninterrupted or error-free operation
-SECURITY: No warranty that the App is free from viruses or harmful components
-10.3 Fashion and Style Disclaimer
-TryRoom provides AI-generated style suggestions for informational and entertainment purposes only. We are not professional fashion consultants, and our recommendations:
-
-Should not be considered professional fashion advice
-May not be suitable for all body types, occasions, or preferences
-Are generated by AI and may not reflect current fashion trends
-Should be evaluated using your own judgment
-10.4 No Professional Advice
-Nothing in the App constitutes professional advice of any kind. You should consult appropriate professionals for specific fashion, image consulting, or personal styling needs.
-
-11. Limitation of Liability
-11.1 Exclusion of Damages
-TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, IN NO EVENT SHALL WEBOMAX BİLİŞİM TEKNOLOJİLERİ LIMITED ŞİRKETİ, ITS DIRECTORS, EMPLOYEES, PARTNERS, AGENTS, SUPPLIERS, OR AFFILIATES BE LIABLE FOR:
-
-Indirect, incidental, special, consequential, or punitive damages
-Loss of profits, revenue, data, or business opportunities
-Personal injury or property damage
-Any damages arising from:
-Your use or inability to use the App
-AI-generated content or recommendations
-Unauthorized access to your data
-Third-party service failures
-Errors, mistakes, or inaccuracies in content
-Any conduct of third parties on or related to the App
-11.2 Cap on Liability
-TO THE EXTENT PERMITTED BY LAW, OUR TOTAL LIABILITY FOR ALL CLAIMS ARISING FROM OR RELATED TO THESE TERMS OR THE APP SHALL NOT EXCEED THE GREATER OF:
-
-The amount you paid to us in the twelve (12) months preceding the claim, or
-Fifty US Dollars (USD $50.00)
-11.3 Essential Purpose
-THE LIMITATIONS IN THIS SECTION APPLY EVEN IF ANY REMEDY FAILS OF ITS ESSENTIAL PURPOSE.
-
-11.4 Jurisdictional Limitations
-Some jurisdictions do not allow the exclusion of certain warranties or limitation of liability. In such jurisdictions, our liability shall be limited to the maximum extent permitted by law.
-
-12. Indemnification
-12.1 Your Indemnification Obligations
-You agree to defend, indemnify, and hold harmless Webomax Bilişim Teknolojileri Limited Şirketi and its officers, directors, employees, agents, licensors, and service providers from and against any claims, liabilities, damages, judgments, awards, losses, costs, expenses, or fees (including reasonable attorneys' fees) arising out of or relating to:
-
-Your violation of these Terms
-Your use of the App
-Content you upload or generate
-Your violation of any third-party rights
-Your violation of any applicable laws or regulations
-Your negligence or willful misconduct
-12.2 Our Right to Control Defense
-We reserve the right to assume exclusive defense and control of any matter subject to indemnification by you. You agree to cooperate fully with our defense of such claims.
-
-13. Dispute Resolution
-13.1 Informal Resolution
-Before initiating any formal dispute resolution, you agree to first contact us at info@webomax.net to attempt to resolve the dispute informally. We will attempt to resolve the dispute within 30 days.
-
-13.2 Governing Law
-These Terms shall be governed by and construed in accordance with the laws of the Republic of Türkiye, without regard to its conflict of law provisions.
-
-13.3 Jurisdiction
-You agree that any disputes arising out of or relating to these Terms or your use of TryRoom will be resolved exclusively in the competent courts located in Türkiye.
-
-13.4 Waiver of Class Actions
-TO THE EXTENT PERMITTED BY LAW, YOU AGREE THAT ANY DISPUTE RESOLUTION PROCEEDINGS WILL BE CONDUCTED ONLY ON AN INDIVIDUAL BASIS AND NOT IN A CLASS, CONSOLIDATED, OR REPRESENTATIVE ACTION.
-
-14. Termination
-14.1 Termination by You
-You may terminate your use of the App at any time by:
-
-Deleting the App from your device
-Canceling your subscription through the App Store
-14.2 Termination by Us
-We may suspend or terminate your access to the App immediately, without prior notice or liability, if:
-
-You breach any provision of these Terms
-You engage in prohibited uses of the App
-You engage in fraudulent or illegal activity
-We are required to do so by law
-We discontinue the App or any of its features
-14.3 Effects of Termination
-Upon termination:
-
-Your right to use the App ceases immediately
-You will not receive a refund for any unused credits or subscription period
-Provisions that by their nature should survive termination shall survive (including ownership, disclaimers, indemnification, and limitations of liability)
-15. Changes to Terms
-15.1 Right to Modify
-We reserve the right to modify these Terms at any time at our sole discretion.
-
-15.2 Notification of Changes
-We will notify you of material changes by:
-
-Updating the "Last Updated" date at the top of these Terms
-Providing notice within the App
-Sending notification through the App Store (for significant changes)
-15.3 Acceptance of Changes
-Your continued use of the App after changes become effective constitutes your acceptance of the revised Terms. If you do not agree to the new Terms, you must stop using the App.
-
-16. General Provisions
-16.1 Entire Agreement
-These Terms, together with our Privacy Policy and EULA, constitute the entire agreement between you and us regarding the App and supersede all prior agreements and understandings.
-
-16.2 Severability
-If any provision of these Terms is found to be unenforceable or invalid, that provision shall be limited or eliminated to the minimum extent necessary, and the remaining provisions shall remain in full force and effect.
-
-16.3 Waiver
-Our failure to enforce any right or provision of these Terms shall not constitute a waiver of such right or provision. Any waiver must be in writing and signed by us.
-
-16.4 Assignment
-You may not assign or transfer these Terms or your rights hereunder without our prior written consent. We may assign these Terms without restriction.
-
-16.5 No Third-Party Beneficiaries
-These Terms do not create any third-party beneficiary rights, except as expressly provided.
-
-16.6 Force Majeure
-We shall not be liable for any failure or delay in performance due to circumstances beyond our reasonable control, including but not limited to acts of God, natural disasters, war, terrorism, riots, embargoes, acts of civil or military authorities, fire, floods, accidents, strikes, or shortages of transportation, facilities, fuel, energy, labor, or materials.
-
-16.7 Headings
-The section headings in these Terms are for convenience only and have no legal or contractual effect.
-
-17. Apple-Specific Terms
-If you are using TryRoom on an Apple device, the following additional terms apply:
-
-17.1 Acknowledgment
-You acknowledge that these Terms are between you and Webomax Bilişim Teknolojileri Limited Şirketi only, not with Apple, and Apple is not responsible for the App or its content.
-
-17.2 Scope of License
-The license granted to you is limited to a non-transferable license to use the App on Apple-branded products that you own or control, as permitted by the Usage Rules in the Apple Media Services Terms and Conditions.
-
-17.3 Maintenance and Support
-Apple has no obligation to furnish any maintenance and support services with respect to the App.
-
-17.4 Warranty
-Apple has no warranty obligation whatsoever with respect to the App.
-
-17.5 Product Claims
-Apple is not responsible for addressing any claims relating to the App or your use of the App.
-
-17.6 Intellectual Property Claims
-Apple is not responsible for the investigation, defense, settlement, or discharge of any third-party intellectual property infringement claims.
-
-17.7 Legal Compliance
-You represent and warrant that you are not located in a country subject to a U.S. Government embargo and are not on any U.S. Government list of prohibited or restricted parties.
-
-17.8 Third-Party Beneficiary
-Apple and its subsidiaries are third-party beneficiaries of these Terms, and upon your acceptance, Apple will have the right to enforce these Terms against you.
-
-17.9 Contact for Questions
-For any questions or complaints regarding the App, please contact us at: info@webomax.net
-
-18. Contact Information
-If you have any questions about these Terms of Service, please contact us:
+---
+title: TryRoom – Terms of Use
+---
+
+# TryRoom – Terms of Use
+
+**Last Updated:** October 23, 2026
+**Effective Date:** October 23, 2026
+
+## Agreement to Terms
+
+These Terms of Use ("Terms") are a legally binding agreement between you ("you" or "your") and Webomax Bilişim Teknolojileri Limited Şirketi ("Company," "we," "our," or "us") for your use of the TryRoom mobile application (the "App"), including its content, features and subscriptions.
+
+By downloading, installing or using TryRoom, you agree to these Terms and to our [Privacy Policy](https://webomax.github.io/tryroom-privacy/). If you do not agree, do not use the App.
+
+## 1. The Service
+
+### 1.1 What TryRoom does
+
+TryRoom is an AI-powered personal styling app that offers:
+
+- **Virtual wardrobe:** photograph and organize your clothes and accessories.
+- **AI item analysis:** AI recognizes the type, colors, category and season of each item.
+- **Outfit suggestions:** AI suggests outfits from your wardrobe for an occasion you describe.
+- **Outfit images:** AI creates a picture of a suggested outfit, on you (if you add a full-body photo) or on a model.
+- **Support assistant:** an AI support chat inside the App.
+
+### 1.2 AI providers
+
+TryRoom's AI features run through our own server, which uses third-party AI services: Google (Gemini) as the main provider, and OpenRouter as a backup when Google is unavailable (sending photo requests to Google models and text-only requests to OpenAI models). The support assistant uses OpenAI models through OpenRouter. The Privacy Policy explains what each provider receives. The App asks for your consent before sending any data to them.
+
+## 2. Eligibility
+
+You must be at least 13 years old (or the minimum age of digital consent in your country, if higher) to use TryRoom. If you are under the age of majority where you live, you may use the App only with the consent of a parent or guardian, who agrees to these Terms for you. You must use the App in line with all applicable laws.
+
+## 3. No Account; Your Data
+
+### 3.1 Anonymous use
+
+You do not need to register. The App creates an anonymous ID on first launch so our server can apply usage limits and link your subscription. No name, email or phone number is attached to it.
+
+### 3.2 Your data stays on your device
+
+Your wardrobe, photos, saved looks and settings are stored on your device. We do not keep a copy. If you delete the App, lose or change your device, or use **Delete My Data**, this data may be lost permanently unless your device's own backup kept it. Restoring purchases on a new device restores your subscription, not your wardrobe.
+
+## 4. Free Plan, Premium and Payments
+
+### 4.1 Free plan
+
+The free plan includes:
+
+- up to **30 wardrobe items**, and
+- **3 styles per month**.
+
+### 4.2 TryRoom Premium
+
+TryRoom Premium is an auto-renewing subscription, offered monthly and yearly, that includes:
+
+- **50 styles per month**,
+- outfit images for every suggestion, and
+- an unlimited wardrobe.
+
+The current prices are shown in the App before you buy.
+
+### 4.3 What counts as a "style"
+
+A style is **one outfit image that was created successfully**. If an image fails to generate, it is not counted. Style allowances reset at the start of each calendar month (UTC). Unused styles do not carry over to the next month and have no cash value.
+
+### 4.4 Fair use limits
+
+To keep the service available for everyone, AI requests (for example item analysis and suggestions) are also subject to reasonable daily limits, and outfit images to a daily maximum. These limits are set well above normal personal use. We may temporarily pause AI features to protect the service, for example during abuse or a provider outage. When a limit is reached, the App tells you when you can continue.
+
+### 4.5 Billing and renewal
+
+- Payment is charged to your Apple ID or Google Play account when you confirm the purchase.
+- The subscription renews automatically at the same price and period unless you cancel it at least 24 hours before the end of the current period.
+- Your account is charged for renewal within 24 hours before the end of the current period.
+- If a free trial or introductory offer is shown, any unused part of it ends when you buy a subscription.
+- Prices may change; you will be told in advance as required by Apple or Google, and can cancel before the new price applies.
+
+### 4.6 Managing and cancelling
+
+- **iOS:** Settings → [your name] → Subscriptions → TryRoom
+- **Android:** Google Play → Payments & subscriptions → Subscriptions → TryRoom
+
+Deleting the App or using Delete My Data does **not** cancel your subscription.
+
+### 4.7 Refunds
+
+Purchases are processed by Apple or Google, and refunds are handled by them under their policies. We cannot issue refunds directly.
+
+- **Apple:** <https://reportaproblem.apple.com>
+- **Google Play:** <https://support.google.com/googleplay/answer/2479637>
+
+## 5. AI-Generated Content
+
+### 5.1 What to expect
+
+AI results are created automatically and may be imperfect, inaccurate or unexpected. Outfit images may contain visual errors, may not show your clothes exactly, and may differ each time. Suggestions are ideas, not professional fashion advice, and may not suit your body, taste or occasion. Use your own judgment.
+
+### 5.2 Content rules of AI providers
+
+AI providers apply their own safety rules and may refuse some photos or requests. The App will tell you when that happens.
+
+### 5.3 Ownership
+
+You keep any rights you have in the photos you upload. As between you and us, you may use the outfit images and suggestions the App creates for you for your own personal purposes, subject to these Terms, applicable law and the terms of the AI providers. AI-generated content may not be protected by copyright and may be similar to content created for others.
+
+### 5.4 Your responsibility
+
+You are responsible for how you use, share or publish AI-generated content, and for making sure that use is lawful.
+
+## 6. Your Content
+
+### 6.1 What you upload
+
+By uploading photos or text, you confirm that:
+
+- you own them or have the right to use them,
+- any person who can be identified in a photo is you, or has agreed to it, and
+- they do not break these Terms or any law.
+
+### 6.2 Permission to process
+
+You give us a limited, non-exclusive, royalty-free permission to send your content to our AI providers and to process it **only to provide the features you request**. We do not use your photos or text to train AI models, and we do not publish them.
+
+### 6.3 Deleting your content
+
+You can delete any wardrobe item or look at any time, or delete everything with **Profile → Privacy → Delete My Data**.
+
+## 7. Acceptable Use
+
+You agree **not** to use TryRoom to:
+
+- upload, create or share illegal, hateful, violent or harassing content;
+- upload or create nude, sexually explicit or sexualized images, or **any** content that sexualizes minors;
+- upload photos of another person without their consent, or create fake or misleading images of real people;
+- infringe anyone's copyright, trademark or other rights, or create counterfeit product images;
+- impersonate any person or organization, or commit fraud;
+- reverse engineer, decompile or modify the App, except where the law allows it;
+- access or call our server or AI features other than through the App, use bots or scripts, or try to get around usage limits, payment or security measures;
+- interfere with or overload the service, or exploit bugs or vulnerabilities; or
+- resell or commercially exploit the App or its AI features without our written permission.
+
+If you break these rules, we may limit or block your access to AI features, without a refund where the law allows, and report illegal content to the authorities when required.
+
+## 8. Third-Party Services
+
+The App relies on third parties, including Google, OpenRouter, OpenAI, Supabase, RevenueCat, Sentry, Apple and Google Play. Their services are governed by their own terms and privacy policies. We are not responsible for their outages, changes or decisions, but we choose them carefully and will keep the Privacy Policy up to date when they change.
+
+## 9. Intellectual Property
+
+The App, including its name, logo, design, software and content (other than your content), belongs to Webomax Bilişim Teknolojileri Limited Şirketi and its licensors and is protected by law.
+
+We give you a personal, limited, non-exclusive, non-transferable and revocable license to install and use the App on devices you own or control, for personal, non-commercial use, in line with these Terms and the store's usage rules.
+
+If you send us feedback or ideas, we may use them freely without paying you or naming you.
+
+## 10. Changes and Availability
+
+We may change, add or remove features, change AI providers or models, adjust usage limits, or stop offering the App. If we make a change that materially reduces what a paid subscription includes, we will tell you in advance, and you can cancel before your next renewal.
+
+## 11. Disclaimers
+
+THE APP IS PROVIDED "AS IS" AND "AS AVAILABLE." TO THE FULLEST EXTENT PERMITTED BY LAW, WE DISCLAIM ALL WARRANTIES, EXPRESS OR IMPLIED, INCLUDING MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, NON-INFRINGEMENT, AND ANY WARRANTY THAT THE APP WILL BE UNINTERRUPTED, ERROR-FREE, OR THAT AI RESULTS WILL BE ACCURATE OR SUITABLE.
+
+Nothing in these Terms limits rights you have as a consumer that cannot be limited by contract.
+
+## 12. Limitation of Liability
+
+TO THE FULLEST EXTENT PERMITTED BY LAW, WE WILL NOT BE LIABLE FOR INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL OR PUNITIVE DAMAGES, OR FOR LOSS OF DATA, PROFITS OR GOODWILL, ARISING FROM YOUR USE OF OR INABILITY TO USE THE APP, INCLUDING AI-GENERATED CONTENT AND THIRD-PARTY SERVICE FAILURES.
+
+OUR TOTAL LIABILITY FOR ALL CLAIMS RELATING TO THE APP IS LIMITED TO THE GREATER OF (A) THE AMOUNT YOU PAID FOR THE APP IN THE 12 MONTHS BEFORE THE CLAIM, OR (B) USD 50.
+
+Some countries do not allow these limits, so they apply to you only as far as the law allows. They do not limit liability for death or personal injury caused by negligence, for fraud, or for anything else that cannot be limited by law.
+
+## 13. Indemnity
+
+To the extent permitted by law, you agree to compensate us for claims, losses and reasonable costs (including legal fees) arising from your breach of these Terms, your content, or your violation of any law or third-party right.
+
+## 14. Ending These Terms
+
+You can stop using TryRoom at any time by deleting the App and cancelling your subscription in your store settings.
+
+We may suspend or end your access if you break these Terms, if the law requires it, or if we stop offering the App. Sections that by their nature should continue (such as ownership, disclaimers, limitation of liability and governing law) survive the end of these Terms.
+
+## 15. Governing Law and Disputes
+
+Please contact us first at [info@webomax.net](mailto:info@webomax.net) so we can try to solve any problem informally within 30 days.
+
+These Terms are governed by the laws of the Republic of Türkiye, without regard to conflict-of-law rules. The courts of Türkiye have jurisdiction, but if you are a consumer, you also keep the protection of the mandatory laws of your country of residence and may bring a claim in your local courts where that law allows.
+
+To the extent permitted by law, disputes will be handled individually, not as a class or representative action.
+
+## 16. Changes to These Terms
+
+We may update these Terms. We will change the "Last Updated" date and, for important changes, tell you in the App. If you keep using the App after the changes take effect, you accept the new Terms. If you do not agree, stop using the App and cancel your subscription.
+
+## 17. General
+
+- **Entire agreement:** these Terms and the Privacy Policy are the whole agreement between you and us about the App.
+- **Severability:** if any part is found invalid, the rest stays in effect.
+- **No waiver:** not enforcing a right now does not mean we give it up.
+- **Assignment:** you may not transfer these Terms; we may transfer them, for example as part of a business sale.
+- **Force majeure:** we are not responsible for delays or failures caused by events beyond our reasonable control.
+
+## 18. Apple App Store Terms
+
+If you downloaded TryRoom from the Apple App Store:
+
+1. These Terms are between you and us only, not Apple. We, not Apple, are responsible for the App and its content.
+2. Your license is limited to using the App on Apple-branded products you own or control, as allowed by the Usage Rules in the Apple Media Services Terms and Conditions.
+3. Apple has no obligation to provide maintenance or support for the App.
+4. If the App fails to meet any applicable warranty, you may notify Apple, and Apple will refund the purchase price, if any. To the extent permitted by law, Apple has no other warranty obligation for the App.
+5. We, not Apple, are responsible for any claims relating to the App, including product liability claims, claims that the App fails to meet legal or regulatory requirements, and consumer protection or privacy claims.
+6. We, not Apple, are responsible for the investigation, defense, settlement and discharge of any third-party claim that the App infringes intellectual property rights.
+7. You confirm that you are not located in a country subject to a U.S. Government embargo or designated as a "terrorist supporting" country, and that you are not on any U.S. Government list of prohibited or restricted parties.
+8. Apple and its subsidiaries are third-party beneficiaries of these Terms and may enforce them against you.
+
+Apple's standard license agreement: <https://www.apple.com/legal/internet-services/itunes/dev/stdeula/>
+
+## 19. Contact
 
 Webomax Bilişim Teknolojileri Limited Şirketi
+Email: [info@webomax.net](mailto:info@webomax.net)
+Subject line: TryRoom Terms Inquiry
 
-Email: info@webomax.net
+## 20. Summary
 
-Subject Line: TryRoom Terms of Service Inquiry
-
-19. Summary of Key Points
-| Topic | Summary | |-------|---------| | Eligibility | Must be 13+ years old | | Account | No account required; data stored locally | | Subscriptions | Auto-renewable; managed via Apple | | Credits | Non-refundable once consumed | | AI Content | No warranties; you're responsible for use | | Prohibited Uses | No illegal, harmful, or inappropriate content | | Third Parties | Google, OpenAI, Anthropic, RevenueCat, Firebase | | Liability | Limited to amount paid or $50 (whichever is greater) | | Disputes | Governed by Turkish law; Turkish courts | | Termination | We can terminate for violations; no refunds |
-
-By using TryRoom, you acknowledge that you have read, understood, and agree to be bound by these Terms of Service.
+| Topic | Summary |
+| --- | --- |
+| Age | 13+ (or your country's digital consent age) |
+| Account | None needed; anonymous ID only |
+| Your data | Stored on your device; Delete My Data removes everything |
+| Free plan | 30 wardrobe items, 3 styles per month |
+| Premium | Monthly or yearly auto-renewing; 50 styles per month, unlimited wardrobe |
+| Style | One successfully created outfit image; failed images are not counted |
+| Refunds | Through Apple or Google |
+| AI content | May be imperfect; not professional advice |
+| AI providers | Google (main), OpenRouter with Google and OpenAI models (backup) |
+| Law | Türkiye, plus mandatory consumer law of your country |
 
 © 2026 Webomax Bilişim Teknolojileri Limited Şirketi. All rights reserved.
