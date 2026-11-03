@@ -4,8 +4,8 @@ title: TryRoom – Terms of Use
 
 # TryRoom – Terms of Use
 
-**Last Updated:** October 23, 2026
-**Effective Date:** October 23, 2026
+**Last Updated:** November 3, 2026
+**Effective Date:** November 3, 2026
 
 ## Agreement to Terms
 
@@ -92,6 +92,17 @@ Purchases are processed by Apple or Google, and refunds are handled by them unde
 - **Apple:** <https://reportaproblem.apple.com>
 - **Google Play:** <https://support.google.com/googleplay/answer/2479637>
 
+### 4.8 Creator codes
+
+Some creators recommend TryRoom with a link or a creator code, which you can enter in **Profile → Creator Code** or on the subscription screen.
+
+- A creator code does not change the price or what Premium includes.
+- If you came from a creator's link or entered their code, that creator may earn a commission from your subscription. Creators do not learn who you are.
+- Only one creator code can be attached to your use of the App, and it cannot be changed afterwards.
+- Creator codes have no cash value. We may change or end the creator program at any time.
+
+The program is run with InfluTo; the Privacy Policy explains what it receives.
+
 ## 5. AI-Generated Content
 
 ### 5.1 What to expect
@@ -146,7 +157,7 @@ If you break these rules, we may limit or block your access to AI features, with
 
 ## 8. Third-Party Services
 
-The App relies on third parties, including Google, OpenRouter, OpenAI, Supabase, RevenueCat, Sentry, Apple and Google Play. Their services are governed by their own terms and privacy policies. We are not responsible for their outages, changes or decisions, but we choose them carefully and will keep the Privacy Policy up to date when they change.
+The App relies on third parties, including Google, OpenRouter, OpenAI, Supabase, RevenueCat, InfluTo, Sentry, Apple and Google Play. Their services are governed by their own terms and privacy policies. We are not responsible for their outages, changes or decisions, but we choose them carefully and will keep the Privacy Policy up to date when they change.
 
 ## 9. Intellectual Property
 
@@ -236,6 +247,7 @@ Subject line: TryRoom Terms Inquiry
 | Premium | Monthly or yearly auto-renewing; 50 styles per month, unlimited wardrobe |
 | Style | One successfully created outfit image; failed images are not counted |
 | Refunds | Through Apple or Google |
+| Creator codes | Optional; same price; one per user; the creator may earn a commission |
 | AI content | May be imperfect; not professional advice |
 | AI providers | Google (main), OpenRouter with Google and OpenAI models (backup) |
 | Law | Türkiye, plus mandatory consumer law of your country |
